@@ -1,3 +1,6 @@
 [submodule "audibot"]
 	path = audibot
 	url = git@github.com:TorBorve/audibot.git
+[submodule "Drift-Controller"]
+	path = Drift-Controller
+	url = git@github.com:TorBorve/Drift-Controller.git
