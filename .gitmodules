@@ -1,0 +1,3 @@
+[submodule "audibot"]
+	path = audibot
+	url = git@github.com:TorBorve/audibot.git
